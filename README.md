@@ -10,3 +10,4 @@ Reputation is (optionally) redistributed between evaluators based on their abili
 
 The reputation distribution mechanism is resistant to Sybil attacks so long as Sybil cannot predict the evaluations of non-Sybil commmunity members. 
 
+## This code is pre-alpha - the contract does not compile and is incomplete. 
